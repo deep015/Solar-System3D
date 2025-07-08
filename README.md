@@ -47,5 +47,5 @@ This project is a fully interactive and responsive **3D simulation of the Solar 
 
 ---
 
-## 📂 Project Structure
+
 
