@@ -1,4 +1,5 @@
 # 🌌 3D Solar System Simulation – Three.js
+https://solar-system3-d-seven.vercel.app/
 
 This project is a fully interactive and responsive **3D simulation of the Solar System** built with **Three.js**. It demonstrates planetary orbits, self-rotation, realistic lighting, and user interactions — all powered by **pure JavaScript** with no CSS animations.
 
